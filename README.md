@@ -148,7 +148,9 @@ Examples:
 
 ##  Contributors
 
-Add the names and GitHub profiles of your project team members here.
+Priyansh Mehta: mehtapriyansh019-ux
+Reyaan Gosalia: reyaan0902
+Ronak Khatri: ronakkhatri07
 
 
 
