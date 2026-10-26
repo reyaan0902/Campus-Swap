@@ -1,14 +1,14 @@
-# CampusSwap 🎓
+# CampusSwap 
 
 A MERN stack web application that helps college students buy, sell, and exchange used academic and college essentials in a convenient online marketplace.
 
-## 📌 About the Project
+##  About the Project
 
 CampusSwap is a student-focused marketplace designed to make it easier for college students to find affordable textbooks, stationery, calculators, lab coats, and other useful college items.
 
 Instead of throwing away or storing unused items, students can list them for sale or exchange with other students, encouraging affordability and reuse.
 
-## ✨ Features
+##  Features
 
 - **User Authentication:** Register and log in securely.
 - **Create Listings:** Add items with a title, description, price, category, and image.
@@ -20,7 +20,7 @@ Instead of throwing away or storing unused items, students can list them for sal
 
 *Features will be implemented progressively as the project develops.*
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React.js, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
@@ -28,7 +28,7 @@ Instead of throwing away or storing unused items, students can list them for sal
 - **API Communication:** REST API
 - **Version Control:** Git and GitHub
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 CampusSwap/
@@ -51,7 +51,7 @@ CampusSwap/
 
 *The structure may change as development progresses.*
 
-## ⚙️ Installation and Setup
+##  Installation and Setup
 
 ### Prerequisites
 
@@ -108,7 +108,7 @@ Open the local URL displayed in the terminal to access the application.
 
 *These commands assume the frontend and backend have been configured as described.*
 
-## 🗄️ Database
+##  Database
 
 MongoDB will store application data in collections such as:
 
@@ -118,7 +118,7 @@ MongoDB will store application data in collections such as:
 
 The final schema will depend on the implemented features.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Develop a full-stack web application using the MERN stack.
 - Implement CRUD operations using MongoDB, Express.js, and Node.js.
@@ -126,7 +126,7 @@ The final schema will depend on the implemented features.
 - Understand REST API development and frontend-backend integration.
 - Solve a practical problem faced by college students.
 
-## 📸 Screenshots
+##  Screenshots
 
 Screenshots of the application will be added here as development progresses.
 
@@ -138,7 +138,7 @@ Examples:
 - User Dashboard
 - Add/Edit Listing Page
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - In-app messaging between buyers and sellers.
 - Advanced filters and sorting.
@@ -146,11 +146,9 @@ Examples:
 - Notifications for listing updates.
 - College-specific marketplace access.
 
-## 👨‍💻 Contributors
+##  Contributors
 
 Add the names and GitHub profiles of your project team members here.
 
-## 📄 License
 
-This project is developed for educational purposes as part of a Web Programming Laboratory mini-project.
 
